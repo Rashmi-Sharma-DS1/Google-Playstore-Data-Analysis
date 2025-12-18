@@ -56,8 +56,8 @@ googleplaystore.csv
 ## 🧠 **Project Workflow**
 
 ### 📋 **Requirements**
-requirements before running notebook:
-[`Requirements/requirements.txt`]()
+requirements before running notebook:  
+[`requirements.txt`](https://github.com/Rashmi-Sharma-DS1/Google-Playstore-Data-Analysis/blob/main/requirements.txt)
 
 ### 📘 **Notebook (Final Report)**  
 Browse the notebook here:  
