@@ -55,6 +55,10 @@ googleplaystore.csv
 
 ## 🧠 **Project Workflow**
 
+### 📋 **Requirements**
+requirements before running notebook:
+[`Requirements/requirements.txt`]()
+
 ### 📘 **Notebook (Final Report)**  
 Browse the notebook here:  
 [`Notebooks/EDA_Play_store_Data.ipynb`](https://github.com/Rashmi-Sharma-DS1/Google-Playstore-Data-Analysis/blob/main/Notebook/EDA_Play_store_Data.ipynb)
