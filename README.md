@@ -61,11 +61,11 @@ Browse the notebook here:
 
 ### 🔧 **Logic File (Core Python Flow)**  
 View the core logic file here:  
-[`Scripts_py/EDA_Play_store_Data_Logic.py`](https://github.com/Rashmi-Sharma-DS1/Google-Playstore-Data-Analysis/blob/main/Logic_py/Logic_1.py)
+[`Logic_py/Logic_1.py`](https://github.com/Rashmi-Sharma-DS1/Google-Playstore-Data-Analysis/blob/main/Logic_py/Logic_1.py)
 
 ### 📥 **Dataset Loader**  
 See the dataset loader here:  
-[`Scripts_py/kaggle_load_dataset.py`](https://github.com/Rashmi-Sharma-DS1/Google-Playstore-Data-Analysis/blob/main/scripts_py/scipts_1.py)
+[`Get_data/kaggle_load_dataset.py`](https://github.com/Rashmi-Sharma-DS1/Google-Playstore-Data-Analysis/blob/main/Get_data/kaggle_load_dataset.py)
 
 ---
 
