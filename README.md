@@ -61,7 +61,7 @@ Browse the notebook here:
 
 ### 🔧 **Logic File (Core Python Flow)**  
 View the core logic file here:  
-[`Scripts_py/EDA_Play_store_Data_Logic.py`](https://github.com/Rashmi-Sharma-DS1/Google-Playstore-Data-Analysis/blob/main/Scripts_py/EDA_Play_store_Data_Logic.py)
+[`Scripts_py/EDA_Play_store_Data_Logic.py`](https://github.com/Rashmi-Sharma-DS1/Google-Playstore-Data-Analysis/blob/main/Logic_py/Logic_1.py)
 
 ### 📥 **Dataset Loader**  
 See the dataset loader here:  
