@@ -46,7 +46,7 @@ googleplaystore.csv
 ```
 
 📌 Used inside:  
-[`Scripts_py/kaggle_load_dataset.py`](https://github.com/Rashmi-Sharma-DS1/Google-Playstore-Data-Analysis/blob/main/Scripts_py/kaggle_load_dataset.py)
+[`Get_data/kaggle_load_dataset.py`](https://github.com/Rashmi-Sharma-DS1/Google-Playstore-Data-Analysis/blob/main/Get_data/kaggle_load_dataset.py)
 
 > ⚠️ Due to ODbL licensing, the dataset is **not included** in this repository.  
 > Users must download it directly from Kaggle.
