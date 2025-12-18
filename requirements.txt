@@ -1,0 +1,7 @@
+✅ Required Libraries
+
+numpy==2.2.6
+pandas==2.2.3
+matplotlib==3.10.3
+seaborn==0.13.2
+skimpy==0.0.18
